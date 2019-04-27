@@ -56,7 +56,7 @@
       "metadata": {
         "description": "Number of Azure Container Instaces to deploy (60 or less per subscription). Tip: You can start by 1 or 2 container instances and deploy more once you have familiarized with the deployment"
       },
-      "maxValue": 60
+      "maxValue": 300
     }
   },
   "variables": {
